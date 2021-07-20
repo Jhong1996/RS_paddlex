@@ -71,7 +71,7 @@ RIFLE：由第三方开发者对ICML 2020中的《RIFLE: Backpropagation in Dept
 ```  
 
 ## 使用方式
-A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/1785557?_=1626793420926&shared=1)
+A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/1785557)
 
 
 B：此处由项目作者进行撰写使用方式。
